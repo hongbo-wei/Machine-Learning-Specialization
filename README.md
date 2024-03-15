@@ -1,6 +1,6 @@
 # [Machine Learning Specialization](../../machine-learning-specialization-andrew-ng-main/assignments)
 
-![](/resources/banner.png)
+![](/resources/course-banner.png)
 
 ## Deeplearning.ai | Stanford University
 
