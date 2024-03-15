@@ -27,6 +27,6 @@
 1. Houce price prediction
 2. Malignant Tumor Classification
 3. Digits Recognition
-5. Images Recognition
+4. Images Recognition
+5. Decision Tree of Classification for Cats
 6. Spaceship Landing Simulation
-...
