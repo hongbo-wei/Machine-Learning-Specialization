@@ -1,11 +1,32 @@
-# Machine Learning Specialization
+# [Machine Learning Specialization](../../machine-learning-specialization-andrew-ng-main/assignments)
+
+![](/resources/banner.png)
 
 ## Deeplearning.ai | Stanford University
 
 ### Taught by Prof. Andrew Ng on Coursera
 
-ML examples:
+- #### [C1 - Supervised Machine Learning - Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+    - Introduction to Machine Learning
+    - Regression with multiple input variables
+    - Classification
 
-1. Digits Recognition
-2. Images Recognition
-3. Spaceship Landing Simulation
+- #### [C2 - Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+    - Neural Networks
+    - Neural network training
+    - Advice for applying machine learning
+    - Decision trees
+
+- #### [C3 - Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+    - Unsupervised learning
+    - Recommender systems
+    - Reinforcement learning
+
+###### ML examples:
+
+1. Houce price prediction
+2. Malignant Tumor Classification
+3. Digits Recognition
+5. Images Recognition
+6. Spaceship Landing Simulation
+...
