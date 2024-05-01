@@ -1,4 +1,4 @@
-# [Machine Learning Specialization](../../machine-learning-specialization)
+# [Machine Learning Specialization](https://github.com/hongbo-wei/Machine-Learning-Specialization)
 
 ![](/resources/course-banner.png)
 
