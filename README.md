@@ -1,4 +1,4 @@
-# [Machine Learning Specialization](../../machine-learning-specialization-andrew-ng-main/assignments)
+# [Machine Learning Specialization](../../machine-learning-specialization)
 
 ![](/resources/course-banner.png)
 
