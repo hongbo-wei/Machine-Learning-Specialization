@@ -48,7 +48,7 @@ This Course is the best place towards becoming a Machine Learning Engineer. Even
     - The Rover was trained to land correctly on the surface, correctly between the flags as indicators after many unsuccessful attempts in learning how to do it.
     - The final landing after training the agent using appropriate parameters : 
 
-https://user-images.githubusercontent.com/77543865/182395635-703ae199-ba79-4940-86eb-23dd90093ab3.mp4
+<img align="Right" src="./assignments/images/lunar_lander.gif" width = 60% >
 
 * <i>Write an algorithm for a **Movie Recommender System**</i>
     
